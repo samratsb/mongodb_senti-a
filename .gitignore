@@ -1,0 +1,4 @@
+venv
+.vscode
+__pycache__
+playground-1.mongodb.js
